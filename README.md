@@ -1,2 +1,2 @@
 User Guide PDF:
-[Remote File Handler - User Guide.pdf](https://github.com/user-attachments/files/16548057/Remote.File.Handler.-.User.Guide.pdf)
+[remoteFileHandler_userGuide.pdf](https://github.com/user-attachments/files/16548117/remoteFileHandler_userGuide.pdf)
